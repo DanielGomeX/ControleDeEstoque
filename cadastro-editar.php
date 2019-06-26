@@ -10,7 +10,7 @@
 		$lista = $pessoaDAO -> listarPorId($idRecebido);
 		
 	}
-	catch(Exeption $e){
+	catch(Exception $e){
 		
 	}
 ?>
